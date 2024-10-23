@@ -1,10 +1,10 @@
 # Hi there 👋 I'm Tracy Arispe!
 
-Welcome to my GitHub profile! I’m a **QA Automation Engineer** with over **five years of experience** with over five years of experience in the technology industry. Expertise in Selenium with Python, test suite design and execution, BDD, with a strong focus on **eCommerce platforms** and other large-scale systems. Strengths include critical thinking, flexibility, teamwork, time management, attention to detail, and problem-solving. Known for working collaboratively with stakeholders of all levels focused on software quality throughout the entire SDLC process. Extensive hands-on experience building test suites using a variety of technology stacks. Strong foundation in analytical thinking, efficient troubleshooting, and effective communication. Able to adjust and adapt as the industry and customer needs fluctuate, not just to different technologies, but to different processes, priorities, and workflows.
+Welcome to my GitHub profile! I’m a **QA Automation Engineer** with over **five years of experience** in the technology industry. Expertise in Selenium with Python, test suite design and execution, BDD, with a strong focus on **eCommerce platforms** and other large-scale systems. Strengths include critical thinking, flexibility, teamwork, time management, attention to detail, and problem-solving. Known for working collaboratively with stakeholders of all levels focused on software quality throughout the entire SDLC process. Extensive hands-on experience building test suites using a variety of technology stacks. Strong foundation in analytical thinking, efficient troubleshooting, and effective communication. Able to adjust and adapt as the industry and customer needs fluctuate, not just to different technologies, but to different processes, priorities, and workflows.
 
 ## 💼 Professional Experience
 
-### Reelly.io, (02/24 - Present)
+### Reelly.io (02/24 - Present)
 **QA Automation Engineer**
 - Perform automation testing for real estate web app; Series B funding for $675M
 - Improved testing efficiency by increasing automation test coverage by 10%
@@ -16,7 +16,7 @@ Welcome to my GitHub profile! I’m a **QA Automation Engineer** with over **fiv
 - Inspected HTML and CSS using Chrome Developer Tools to increase automated test cases by 18%
 - Maintained test suites, streamlined tests, and reduced test execution time by 15%
 
-### Orchestra, (04/23 - 02/24)
+### Orchestra (04/23 - 02/24)
 **Software QA Engineer**
 - Identified system requirements working with developers and product managers; converted 95% of requirements to test cases
 - Wrote over 200 manual test cases, which increased bug detection by 15%
@@ -24,14 +24,14 @@ Welcome to my GitHub profile! I’m a **QA Automation Engineer** with over **fiv
 - Created and tested 29 different virtual devices using Browserstack, Android Studio, and Xcode
 - Conducted functional testing and regression testing on two web and two mobile apps
 
-### Rethread Boutique, (01/19 - 06/23)
+### Rethread Boutique (01/19 - 06/23)
 **Operations Analyst**
 - Applied SEO to increase customer traffic by 25%
 - Increased customer exposure by 33% by automating listings across multiple eCommerce sites using listing management software (eBay, Amazon, Etsy, Meta Marketplace, Shopify)
 - Designed and implemented a comprehensive database for inventory, sales management, and payment processing, increasing revenue by 79%
 - Managed team of four employees
 
-### MyHealth Champions, (02/19 - 05/21)
+### MyHealth Champions (02/19 - 05/21)
 **Manual QA Engineer**
 - Charged as a developer and test engineer for an insurance provider website, supporting individuals in the $532B trucking industry
 - Collaborated with developers and product teams to convert feature requirements into test plans leading to the writing of a suite of 150 test cases
