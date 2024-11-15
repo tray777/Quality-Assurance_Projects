@@ -109,10 +109,10 @@ I’m diving deeper into **advanced automation strategies** to further refine my
 
 ## 📫 Connect with Me
 
-- Email: tarispe1@yahoo.com
-
 - [LinkedIn](https://www.linkedin.com/in/tracyarispe)
 - Email: tarispe1@yahoo.com
+- Email: `tarispe1@yahoo.com`
+
 
 Feel free to explore my repositories to check out the projects I’ve worked on and some of my test automation implementations.
 
