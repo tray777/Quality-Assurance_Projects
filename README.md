@@ -3,7 +3,7 @@
 Welcome to my GitHub profile! I’m a **QA Automation Engineer** with over **five years of experience** in the technology industry. Expertise in Selenium with Python, test suite design and execution, BDD, with a strong focus on **eCommerce platforms** and other large-scale systems. Strengths include critical thinking, flexibility, teamwork, time management, attention to detail, and problem-solving. Known for working collaboratively with stakeholders of all levels focused on software quality throughout the entire SDLC process. Extensive hands-on experience building test suites using a variety of technology stacks. Strong foundation in analytical thinking, efficient troubleshooting, and effective communication. Able to adjust and adapt as the industry and customer needs fluctuate, not just to different technologies, but to different processes, priorities, and workflows.
 
 Feel free to explore my sample work by reviewing my commits or click here: [View my sample work](https://docs.google.com/spreadsheets/d/1STJ2me7ZuB-Vq0lDzVNF4IQ3arp9oWbDmAVccNiJmnQ/edit?usp=sharing)
-Scroll to the bottom of the Google Sheets to tab through the various types of test suites
+Navigate to the bottom of the Google Sheets to find the sheet tabs, where you can access various types of test suites. 
 
 ## 💼 Professional Experience
 
